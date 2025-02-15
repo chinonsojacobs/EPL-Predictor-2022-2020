@@ -56,7 +56,7 @@ cover/
 *.pot
 
 # Notes
-*. notes.txt
+notes.txt
 
 # Django stuff:
 *.log
